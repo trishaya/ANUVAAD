@@ -1,0 +1,61 @@
+[
+  {
+    "category": "romanized",
+    "input": "main ghar jaa raha hun",
+    "expected_model": "Sarvam"
+  },
+
+  {
+    "category": "romanized",
+    "input": "party kab de rha hai",
+    "expected_model": "Sarvam"
+  },
+
+  {
+    "category": "romanized",
+    "input": "tum kaha jaa rahe ho aur kyu?",
+    "expected_model": "Sarvam"
+  },
+
+  {
+    "category": "code_mixed",
+    "input": "kal meeting ache",
+    "expected_model": "Sarvam"
+  },
+
+  {
+    "category": "code_mixed",
+    "input": "deployment ta kal koribo",
+    "expected_model": "Sarvam"
+  },
+
+  {
+    "category": "native",
+    "input": "भारत एक विशाल देश है।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "native",
+    "input": "এই নথিখন আনুষ্ঠানিক ব্যৱহাৰৰ বাবে সংৰক্ষিত।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "native",
+    "input": "இந்த ஆவணம் அதிகாரப்பூர்வ பயன்பாட்டிற்காக உருவாக்கப்பட்டுள்ளது.",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "english",
+    "input": "The project deadline has been extended.",
+    "expected_model": "Sarvam"
+  },
+
+  {
+    "category": "english",
+    "input": "Please send the report by tomorrow.",
+    "expected_model": "Sarvam"
+  }
+]

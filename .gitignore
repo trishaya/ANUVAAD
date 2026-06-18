@@ -1,0 +1,27 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database files
+*.db
+
+# Model files
+models/indiclid-bert/
+models/indiclid-ftn/
+models/indiclid-ftr/
+
+# Large model weights
+*.bin
+*.pt

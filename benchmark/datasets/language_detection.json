@@ -1,0 +1,31 @@
+[
+  {
+    "text": "hello how are you",
+    "expected_language": "en"
+  },
+
+  {
+    "text": "नमस्ते आप कैसे हैं",
+    "expected_language": "hi"
+  },
+
+  {
+    "text": "আমি ভালো আছি",
+    "expected_language": "bn"
+  },
+
+  {
+    "text": "মই ভাল আছো",
+    "expected_language": "as"
+  },
+
+  {
+    "text": "party kab de rha hai",
+    "expected_language": "hi"
+  },
+
+  {
+    "text": "kal meeting ache",
+    "expected_language": "mixed"
+  }
+]

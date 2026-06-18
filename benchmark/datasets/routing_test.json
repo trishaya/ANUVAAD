@@ -1,0 +1,121 @@
+[
+  {
+    "category": "romanized_chat",
+    "input": "party kab de rha hai",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "romanized_chat",
+    "input": "kal milte hai",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "romanized_chat",
+    "input": "mera naam trisha hai",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "romanized_chat",
+    "input": "tum kaha ho",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "romanized_chat",
+    "input": "ye garbar ke baad kya hua",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "code_mixed",
+    "input": "kal meeting ache",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "code_mixed",
+    "input": "deployment ta kal koribo",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "code_mixed",
+    "input": "meeting ta postpone kor",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "code_mixed",
+    "input": "report ta submit kar diya?",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "english",
+    "input": "Hello how are you?",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "english",
+    "input": "Please send the report by tomorrow.",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "english",
+    "input": "The project deadline has been extended.",
+    "expected_model": "Sarvam Translation API"
+  },
+
+  {
+    "category": "native_formal",
+    "input": "भारत एक विशाल देश है।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "native_formal",
+    "input": "यह एक औपचारिक सरकारी दस्तावेज़ है।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "native_formal",
+    "input": "অনুগ্ৰহ কৰি আবেদনখন পূৰণ কৰক।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "native_formal",
+    "input": "এই নথিখন আনুষ্ঠানিক ব্যৱহাৰৰ বাবে সংৰক্ষিত।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "native_formal",
+    "input": "இந்த ஆவணம் அதிகாரப்பூர்வ பயன்பாட்டிற்காக உருவாக்கப்பட்டுள்ளது.",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "long_native",
+    "input": "यह एक लंबा औपचारिक पैराग्राफ है जिसका उपयोग रूटिंग परीक्षण के लिए किया जा रहा है। इसमें औपचारिक भाषा और संरचित वाक्य शामिल हैं।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "long_native",
+    "input": "এইটো এটা দীঘল আনুষ্ঠানিক অনুচ্ছেদ যিটো ৰাউটিং পৰীক্ষাৰ বাবে ব্যৱহাৰ কৰা হৈছে।",
+    "expected_model": "IndicTrans"
+  },
+
+  {
+    "category": "long_native",
+    "input": "The multilingual translation backend processes different types of inputs using intelligent routing logic.",
+    "expected_model": "IndicTrans"
+  }
+]
